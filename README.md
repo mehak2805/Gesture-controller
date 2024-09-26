@@ -1,2 +1,2 @@
 # Gesture-controller
-This is an Machine Learning Project.
+This is a Machine Learning Project.
